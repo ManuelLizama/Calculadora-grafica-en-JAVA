@@ -3,12 +3,7 @@
 package example;
 
 import java.util.Vector;
-/**
- * @author Edmond
- * Comentarios a edmond.duke.developer@gmail.com
- * http://softcx.blogspot.com
- * Basado en el algoritmo shunting yard
- */
+
 public class MakePostFijo2 {
     private Vector<String> rpn;
     private String[] cadena;

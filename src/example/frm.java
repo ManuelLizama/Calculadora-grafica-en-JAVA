@@ -7,11 +7,7 @@ import java.util.Vector;
 import javax.swing.JButton;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
-/**
- * @author Edmond
- * Comentarios a edmond.duke.developer@gmail.com
- * http://softcx.blogspot.com
- */
+
 public class frm extends javax.swing.JFrame implements ActionListener {
     private String[] stringInfija;
     private int error = 0;

@@ -1,11 +1,6 @@
 
 package example;
-/**
- * @author Edmond
- * Comentarios a edmond.duke.developer@gmail.com
- * http://softcx.blogspot.com
- * Clase pila o stack
- */
+
 public class myStack2 {
     private String[] pila;
     private int tope;

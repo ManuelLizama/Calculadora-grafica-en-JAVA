@@ -1,12 +1,6 @@
 
 package example;
-/**
- * @author Edmond
- * Comentarios a edmond.duke.developer@gmail.com
- * http://softcx.blogspot.com
- * Está clase verifica si los caracteres ingresados
- * pertenecen a una expresión devolviendo un entero (error)
- */
+
 public class ALexico {
     private int tipo,error;
 

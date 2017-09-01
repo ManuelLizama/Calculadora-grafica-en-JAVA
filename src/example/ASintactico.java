@@ -1,12 +1,6 @@
 
 package example;
-/**
- * @author Edmond
- * Comentarios a edmond.duke.developer@gmail.com
- * http://softcx.blogspot.com
- * Clase para verificar si los signos de puntuación están
- * agregados correctamente y verifica paréntesis
- */
+
 public class ASintactico {
     private int tipo,error;
     private myStack2 pila;
